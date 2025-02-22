@@ -81,26 +81,10 @@
 
 ---
 
-<!-- 🕒 TIME SPENT CODING -->
-<h2 align="center">⌨️ Coding Activity</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harmanpreetdev&layout=compact&theme=radical" />
-</p>
-
----
-
 <!-- 💡 FUN FACTS & INSPIRATION -->
 <h2 align="center">💡 Fun Facts & Inspirations</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
----
-
-<!-- 🐍 CONTRIBUTION SNAKE -->
-<h2 align="center">📈 My Contribution Activity</h2>
-<p align="center">
-  <img src="https://github.com/harmanpreetdev/harmanpreetdev/blob/main/github-contribution-grid-snake.svg" />
 </p>
 
 ---
