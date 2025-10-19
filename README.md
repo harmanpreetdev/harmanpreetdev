@@ -71,7 +71,7 @@
   <a href="mailto:sagguharman911@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://harmanpreetdev.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://www.buymeacoffee.com/harmanpreetdev">
